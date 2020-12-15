@@ -1,0 +1,4 @@
+organization_id,organization_name,meta_source,new_col
+1,hoge,MyCsvSource,1
+2,foo,MyCsvSource,2
+3,bar,MyCsvSource,3
